@@ -8,6 +8,8 @@ This project is a simple Node.js server that uses the bare minimum to return a 2
 1. `npm install`
 1. `node server.js`
 
+Once running, you can go to [localhost:3000](http://localhost:3000/) to see the server sending a `status: OK` back to us.
+
 ## License
 
 This project is under an MIT License.
